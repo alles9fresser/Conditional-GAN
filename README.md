@@ -1,15 +1,12 @@
 # Conditional-GAN
 
 
-Simple jupyter notebook codes and generated sampels for for CGAN (Conditional GAN)
+Simple jupyter notebook implementations of [Conditional Generative Adversarial Nets] (https://arxiv.org/abs/1411.1784)
 
 
 
 
-
-
-
-### Results
+### Sampled Results
 
 <div align="center">
 	<img src="/Samples/Samples.PNG" width="80%" height="80%"/>
