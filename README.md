@@ -1,4 +1,4 @@
 # Conditional-GAN
 
 
-![Alt text](Conditional-GAN/Samples/0.png?raw=true "Title")
+![Alt text](/Samples/0.png?raw=true "Title")
