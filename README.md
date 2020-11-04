@@ -7,7 +7,8 @@ Sample codes and generated sampels for for CGAN (Conditional GAN)
 
 
 
-##Sampled images
+# Sampled images
+
 
 
 Epoch 0
@@ -18,4 +19,22 @@ Epoch 3000
 ![Alt text](/Samples/3000.png?raw=true "Title")
 Epoch 33000
 ![Alt text](/Samples/33000.png?raw=true "Title")
+
+
+
+
+### Results
+
+<div align="center">
+	<img src="/Samples/0.png" width="80%" height="50%"/>
+</div>
+</a>
+
+
+<div align="center">
+	<img src="/Samples/0.png" width="80%" height="50%"/>
+</div>
+</a>
+
+
 
