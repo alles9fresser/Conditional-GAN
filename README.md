@@ -1,13 +1,9 @@
 # Conditional-GAN
 
 
-Sample jupyter notebook codes and generated sampels for for CGAN (Conditional GAN)
+Simple jupyter notebook codes and generated sampels for for CGAN (Conditional GAN)
 
 
-
-
-
-# Sampled images
 
 
 
