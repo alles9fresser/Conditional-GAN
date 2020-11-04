@@ -1,7 +1,7 @@
 # Conditional-GAN
 
 
-Sample codes and generated sampels for for CGAN (Conditional GAN)
+Sample jupyter notebook codes and generated sampels for for CGAN (Conditional GAN)
 
 
 
